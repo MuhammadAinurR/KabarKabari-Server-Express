@@ -1,0 +1,62 @@
+[
+    {
+        "username": "admin",
+        "email": "admin@mail.com",
+        "password": "$2b$10$IlHVaNbxyZZS73NtXclbUuMX7JeWJ/uuywNIys0jvHgXzEgUPMM..",
+        "role": "Admin",
+        "phoneNumber": "",
+        "address": "",
+        "createdAt": "2024-07-27 08:09:51.67+00",
+        "updatedAt": "2024-07-27 08:09:51.67+00"
+    },
+    {
+        "username": "Staff Nea",
+        "email": "staff@mail.com",
+        "password": "$2b$10$N5LT45ScozYp36oyy4qsIumOAXMcLkr0TrFi14Xmpj.HKCl1rEoku",
+        "role": "Staff",
+        "phoneNumber": "",
+        "address": "",
+        "createdAt": "2024-07-27 08:09:51.752+00",
+        "updatedAt": "2024-07-27 08:09:51.752+00"
+    },
+    {
+        "username": "radmon",
+        "email": "asdfasdf@mail.com",
+        "password": "$2b$10$n5mnHgBFJ2BLF7F1EVHU1OyJjmS9QtktCd/HMcFd6pFefbnO5qaqu",
+        "role": "Staff",
+        "phoneNumber": "",
+        "address": "",
+        "createdAt": "2024-07-27 10:02:55.627+00",
+        "updatedAt": "2024-07-27 10:02:55.627+00"
+    },
+    {
+        "username": "newuser",
+        "email": "newMail@mail.com",
+        "password": "$2b$10$796U0x9q0RzK3gqj8.tknOjLk3Lay/JM8CS2D8Smtfas5vxwDRHf6",
+        "role": "Staff",
+        "phoneNumber": "",
+        "address": "",
+        "createdAt": "2024-07-27 11:53:24.763+00",
+        "updatedAt": "2024-07-27 11:53:24.763+00"
+    },
+    {
+        "username": "Nea Neaaa",
+        "email": "superNea@mail.com",
+        "password": "$2b$10$jKBoLZtOCXPT1GjSEUP6MuItJRjHOk7cVMlOQMDzh/PIj99cjwcWm",
+        "role": "Staff",
+        "phoneNumber": "085731966274",
+        "address": "Adelaide",
+        "createdAt": "2024-08-01 11:13:46.182+00",
+        "updatedAt": "2024-08-01 11:13:46.182+00"
+    },
+    {
+        "username": "Christa",
+        "email": "christa@mail.com",
+        "password": "$2b$10$YZ4ut3TPO1aGAHPN0oC2S.jlPGlAFLxnmiDVsRaB.6C5xzovpO38S",
+        "role": "Staff",
+        "phoneNumber": "085731966274",
+        "address": "Adelaide",
+        "createdAt": "2024-08-01 11:29:24.031+00",
+        "updatedAt": "2024-08-01 11:29:24.031+00"
+    }
+]

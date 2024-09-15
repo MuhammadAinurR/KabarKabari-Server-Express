@@ -1,0 +1,551 @@
+[
+    {
+        "title": "Mysterious family of malware hide in Google Play for years",
+        "content": "A mysterious family of Android malware with a demonstrated history of effectively concealing its myriad spying activities has once again been found in Google Play after more than two years of hiding in plain sight.\n\nThe apps, disguised as file-sharing, astronomy, and cryptocurrency apps, hosted Mandrake, a family of highly intrusive malware that security firm Bitdefender called out in 2020. Bitdefender said the apps appeared in two waves, one in 2016 through 2017 and again in 2018 through 2020. Mandrake’s ability to go unnoticed then was the result of some unusually rigorous steps to fly under the radar. They included:\nNot working in 90 countries, including those comprising the former Soviet Union\nDelivering its final payload only to victims who were extremely narrowly targeted\nContaining a kill switch the developers named seppuku (Japanese form of ritual suicide) that fully wiped all traces of the malware\nFully functional decoy apps in categories including finance, Auto & Vehicles, Video Players & Editors, Art & Design, and Productivity\nQuick fixes for bugs reported in comments\nTLS certificate pinning to conceal communications with command and control servers.",
+        "imgUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/phone-malware-800x532.jpg",
+        "categoryId": 3,
+        "authorId": 1,
+        "createdAt": "2024-07-27 15:59:05.045+00",
+        "updatedAt": "2024-07-27 15:59:05.045+00"
+    },
+    {
+        "title": "ChatGPT Advanced Voice Mode impresses testers with sound effects, catching its breath",
+        "content": "On Tuesday, OpenAI began rolling out an alpha version of its new Advanced Voice Mode to a small group of ChatGPT Plus subscribers. This feature, which OpenAI previewed in May with the launch of GPT-4o, aims to make conversations with the AI more natural and responsive. In May, the feature triggered criticism of its simulated emotional expressiveness and prompted a public dispute with actress Scarlett Johansson over accusations that OpenAI copied her voice. Even so, early tests of the new feature shared by users on social media have been largely enthusiastic.",
+        "imgUrl": "http://res.cloudinary.com/djt9rl4o2/image/upload/v1722525047/hd6lav3ulkc3nujjnwea.png",
+        "categoryId": 3,
+        "authorId": 1,
+        "createdAt": "2024-07-31 20:56:01.453+00",
+        "updatedAt": "2024-08-01 15:10:47.659+00"
+    },
+    {
+        "title": "Samsung Galaxy Flip 6 review: A slightly better foldable aimed at everyone",
+        "content": "The Z Flip series has launched in tandem with the Z Fold for several years, but often with specifications that put it around the bottom of each flagship family, including the traditionally shaped Galaxy S family. That changes this year, with Samsung addressing some of the Z Flip 5’s biggest shortcomings: battery life and middling cameras. It’s a good thing too. As we mentioned in our Z Fold 6 review, there’s more foldable competition than ever. In fact, in the face of Motorola’s most recent foldables, while Samsung is doing something, is it enough?",
+        "imgUrl": "https://s.yimg.com/ny/api/res/1.2/4kvwJG0T9MJ_LIkTMXk9cQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTM4NDA7aD0yNTYwO2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/fe731500-4b4b-11ef-b375-e212f0bf724b",
+        "categoryId": 3,
+        "authorId": 1,
+        "createdAt": "2024-07-31 20:57:14.189+00",
+        "updatedAt": "2024-08-01 09:19:45.844+00"
+    },
+    {
+        "title": "Bungie Devs React To More Mass Layoffs: ‘My Whole Team Is Gone'",
+        "content": "Today, Bungie announced that it was laying off 220 employees, or approximately 17 percent of its workforce. The news, which comes on the heels of a successful expansion launch with Destiny 2: The Final Shape in June and another round of layoffs late last year, has prompted former employees and players alike to criticize Bungie’s leadership. To add insult to injury, the company’s CEO locked his account just as the news hit, shielding himself from flak and criticism online.",
+        "imgUrl": "https://i.kinja-img.com/image/upload/c_fit,q_60,w_1315/b3a533a5869ba95e565ee866f197cf13.jpg",
+        "categoryId": 3,
+        "authorId": 1,
+        "createdAt": "2024-07-31 20:57:54.512+00",
+        "updatedAt": "2024-07-31 20:57:54.512+00"
+    },
+    {
+        "title": "USA's Katie Ledecky wins gold in 1,500-meter freestyle, claiming record-tying 12th Olympic medal in women's swimming",
+        "content": "Ledecky now shares the record for most Olympic gold medals in women's swimming with U.S. legend Jenny Thompson. Both Ledecky and Thompson now each have eight golds, three silvers and a bronze. Americans Dara Torres and Natalie Coughlin, and Australian Emma McKeon, have also won 12 total Olympic medals in women's swimming. Ledecky will continue her swim toward history as she competes in the 800-meter freestyle on Friday, and she's expected to compete in the final of the 4x200-meter freestyle relay on Thursday. Earlier Wednesday, Sweden's Sarah Sjöström won the gold medal in the 100-meter freestyle, with American Torri Huske taking silver. Hong Kong's Siobhan Haughey won the bronze, beating Australia's Mollie O'Callaghan by one-hundredth of a second. Ledecky's win comes just days after the U.S. men won a gold medal after a strong showing in the 4x100 meter freestyle relay. On Saturday, Ledecky won bronze in the women's 400-meter freestyle.",
+        "imgUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/07/31/56bde492-8143-4943-8e1d-104b5638cbb1/thumbnail/1240x798/2a4c20fb5708615678c265c440f8827b/gettyimages-2164684213.jpg?v=8f1da8ceea4c14a7119ef5d6a2829966",
+        "categoryId": 1,
+        "authorId": 1,
+        "createdAt": "2024-07-31 20:59:44.75+00",
+        "updatedAt": "2024-07-31 20:59:44.75+00"
+    },
+    {
+        "title": "Japanese gymnastics captain out of Paris Olympics for drinking alcohol, smoking",
+        "content": "The captain of the Japanese gymnastics team was sent home from France and will not participate at the Olympic Games later this month for allegedly breaking a team ban on smoking and drinking alcohol. Shoko Miyata, 19, who is the captain of her country's women's artistic gymnastics team, left Japan's training camp in Monaco on Thursday after an investigation found that she allegedly violated the Japan Gymnastics Association's rules, CBS News partner BBC reported on Friday. 'With her confirmation and after discussions on all sides, it has been decided that she will withdraw from the Olympics,' Japan Gymnastics Association (JGA) secretary general Kenji Nishimura told reporters in Tokyo.",
+        "imgUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/07/19/c486bb9b-ac9c-49db-b9f4-2051b0bee660/thumbnail/1240x826/c27a64166538494b85a9e6206d6ef721/gettyimages-2152619085.jpg?v=8f1da8ceea4c14a7119ef5d6a2829966",
+        "categoryId": 1,
+        "authorId": 1,
+        "createdAt": "2024-07-31 21:01:09.52+00",
+        "updatedAt": "2024-07-31 21:01:09.52+00"
+    },
+    {
+        "title": "Ancient Roman highway and Brâncuși sculptures among 24 sites added to Unesco World Heritage list",
+        "content": "Unesco has added 24 sites, more than three quarters of them cultural, to its World Heritage list. The new additions to the list—which offers legal protection for sites deemed to be of “outstanding universal value”—are in countries including China, Romania, Russia, Iran, Ethiopia and South Africa. The newly inscribed properties bring the total number of global Unesco World Heritage Sites to 1,223.  The World Heritage committee, which is made up of representatives from 21 member states, is meeting in New Delhi, India, for its 46th session. Of the 24 new designations, 19 are cultural world heritage sites while four are natural world heritage sites. Another site—Te Henua Enata, The Marquesas Islands in French Polynesia—is a mixed property, encompassing natural and cultural elements.  The ancient Monastery of Saint Hilarion (Tell Umm Amer) in Gaza has been urgently added to Unesco’s List of World Heritage in Danger, due to threats from the ongoing war, making it the most politicised site on the list. The decision underscores the critical situation facing the historic site.",
+        "imgUrl": "https://cdn.sanity.io/images/cxgd3urn/production/f00ede38fbd841d2e65a88290e3581e9441af5d2-1000x667.jpg?w=640&h=427&fit=crop&auto=format",
+        "categoryId": 4,
+        "authorId": 1,
+        "createdAt": "2024-08-01 05:39:06.392+00",
+        "updatedAt": "2024-08-01 05:39:06.392+00"
+    },
+    {
+        "title": "Greece tourists told avoid popular holiday destination amid 'overcrowding' issue",
+        "content": "Tourists heading to Greece have been warned that there is an issue over 'overcrowding' on some of their islands. Taking to TikTok, a traveller - @itsnickholiday - warned that many people are having an \"awful time\" due to the sheer number of people coming to the country to soak up the sun and culture.  Talking about what tourists are dealing with this summer - and comparing the current situation to a decade ago - he explained: \"People vacationing in Santorini, Greece, are having an awful time because it’s overcrowded and they can't enjoy any of the things that they wanted to see whilst they were there.\"  Not only is mass tourism an issue. Donkey poo is also said to be there - and is reportedly not always getting cleaned up. \"They’re complaining about the donkey poo everywhere and then when they finally get to visit the destinations they were excited to see - like the Acropolis - it isn’t what they thought it would be\", he added.  Whilst some places are intended for party-goers, others are for people who want to relax and take in the culture. He continued: \"The whole concept behind Santorini is that it’s supposed to be a beautiful, romantic and quiet island versus Mykonos which is more of a party island. But imagine travelling there and then everybody is taking pictures around you and you can't get a sense of peace at all.\"  Looking at a video of tourists crammed together on the streets - with no smiles in sight - he says: \"Just look at everyone’s face. They’re having an awful time.  \"I’ve been to both Mykonos and Santorini and it was nothing like this 15 years ago. It was virtually empty and just travelling there looks almost biblical.  \"There’s way too many people on this island. I can’t help but feel bad for these people. They saved up and were excited for the trip and they’re having a miserable time.\"  In recent days, the issue is becoming more prevalent with some Santorini residents considering leaving the congested island following outrage caused by claims officials instructed locals to remain indoors amid unprecedented tourist arrivals this year.  According to inews, Santorini has a population of roughly 16,000. However it is expecting an estimated 3.4 million tourists this summer alone. But Greece isn't the only holiday destination where locals are protesting against excessive tourism with protests erupting across other summer hot spots like Venice, Tenerife, and Barcelona.",
+        "imgUrl": "https://thefrugalexpat.com/wp-content/uploads/2023/11/%E2%80%8EHalki-Greece.%E2%80%8E001.jpeg",
+        "categoryId": 4,
+        "authorId": 1,
+        "createdAt": "2024-08-01 05:40:38.092+00",
+        "updatedAt": "2024-08-02 15:22:02.148+00"
+    },
+    {
+        "title": "Bungie Layoffs Include Senior Execs Luke Smith And Mark Noseworthy",
+        "content": "Luke Smith and Mark Noseworthy, two senior executives at Bungie, were both part of the recent round of layoffs, according to a new report. Speaking on his Game Mess Decides podcast, Jeff Grubb confirmed that the duo were working on Payback, a new game set in the Destiny universe, but were let go as part of sweeping job losses at the now PlayStation-owned studio.  \"[Smith and Noseworthy] were labelled as working on Payback. It was going to be the next big thing for Destiny, but not Destiny 3,\" Grubb said. \"Luke Smith and Mark Noseworthy are no longer at Bungie. They were let go. They were caught in the executive and leadership shakeup mentioned in the blogpost. Payback has been shelved.\"  [Update] Sources have clarified that Smith and Noseworthy's departure came as the Payback project was shut down, after which executive restructuring meant they had no path forward at Bungie.  Smith was executive director at Bungie and became a notable public-facing representative for the studio, having guided Destiny 2's narrative back to a place that excited fans and more clearly set up a long-term story for the sci-fi shooter. Noseworthy, meanwhile, was vice president of the Destiny universe and responsible for the overall strategy of Destiny as an intellectual property and a business.  GameSpot has contacted Bungie for a statement.",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyPuNFiNjZDKQ7u0Kw5NgapAKFRdmbvC7WVA&s",
+        "categoryId": 3,
+        "authorId": 2,
+        "createdAt": "2024-08-02 06:04:56.46+00",
+        "updatedAt": "2024-08-02 06:04:56.46+00"
+    },
+    {
+        "title": "Mortal Kombat 2 Image Reveals Best Look Yet At Major Video Game Character",
+        "content": "A new image from Mortal Kombat 2 offers the best glimpse yet at the introduction of a major character from the games. Currently slated for an October 2025 release, filming on the sequel officially wrapped in January this year with several new faces added to the cast. In addition to Karl Urban’s introduction as the first generation fighter Johnny Cage, Mortal Kombat 2’s impressive character roster also includes Jade (Tati Gabrielle), Kitana (Adeline Rudolph), Shao Kahn (Martyn Ford), Queen Sindel (Ana Thu Nguyen), King Jerrod (Desmond Chiam), Quan Chi (Damon Herriman), and Baraka (CJ. Bloomfield).  Taking to Twitter/X, video game franchise co-creator Ed Boon, shared a new photo of Rudolph’s Kitana, with a focus on her iconic razor-edged fan and its intricate detailing.",
+        "imgUrl": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/06/mortal-kombat.jpg?q=70&fit=crop&w=1100&h=618&dpr=1",
+        "categoryId": 3,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:23:47.743+00",
+        "updatedAt": "2024-08-02 06:23:47.743+00"
+    },
+    {
+        "title": "One Ancient Jedi-Sith War Proved Yoda Was Wrong About The Dark Side",
+        "content": "Jedi Master Yoda taught Luke Skywalker about the dark side of the Force in The Empire Strikes Back, but an ancient conflict between the Jedi and the Sith proved that one of his lessons was wrong. While the first Star Wars movie mentioned the dark side and portrayed it as evil through Darth Vader, the film never explained what separated it from the \"good side\", as Luke called it. According to Yoda, the dark side is about anger, fear, and aggression, while a Jedi chooses to use the Force for knowledge and defense, never being the one to attack first.  This became the foundation of Jedi philosophy and the light side that would be expanded in subsequent Star Wars movies and TV shows. However, Yoda also told Luke that the dark side is not stronger, but the franchise has repeatedly shown that this isn't entirely true. Of course, one of the saga's central themes is that power is not everything, but Yoda's words are worth analyzing nonetheless. One Star Wars video game introduced a battle between the Jedi and Sith that perfectly demonstrates the advantage of the dark side and why Yoda was wrong (from a certain point of view).",
+        "imgUrl": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/08/one-ancient-jedi-sith-war-proved-yoda-was-wrong-about-the-dark-side.jpg?q=70&fit=crop&w=1100&h=618&dpr=1",
+        "categoryId": 3,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:24:09.911+00",
+        "updatedAt": "2024-08-02 06:24:09.911+00"
+    },
+    {
+        "title": "Monster Summer Is Using 1 Trick From This 1975 Classic To Hide Its Monster",
+        "content": "Monster Summer appears to be using one trick from a 1975 thriller classic to hide its monster, amplifying the mystery. Monster Summer's trailer details the story of Noah (Mason Thames) and his friends who are all set to enjoy a fun summer. However, much like other modern horror movies, things go awry after a mysterious entity attacks one member of the group. They now must team up with a retired detective (Mel Gibson) to save their island from destruction and stop the monster from claiming more victims.  Though the trailer makes the film appear to borrow tropes from more modern franchises, such as Stranger Things, the moments focusing on the monster itself are left very vague. The monster itself remains a mystery throughout the trailer, suggesting that Monster Summer's monster could be one of the smartest movie monsters in modern horror. That being said, hiding the monster is not a new idea; in fact, it is a method that the 1975 summer blockbuster Jaws used to create the fear the film carries even today.  Log in - Create an account Unlimited Access • All Features • Full Experience! Email Address Continue or  Sign in with Google By continuing, you agree to the Privacy Policy and Terms of Use. You also agree to receive our newsletters, you can opt-out any time.",
+        "imgUrl": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/08/monster-summer.jpg?q=70&fit=crop&w=1100&h=618&dpr=1",
+        "categoryId": 3,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:24:41.79+00",
+        "updatedAt": "2024-08-02 06:24:41.79+00"
+    },
+    {
+        "title": "Zenless Zone Zero Launches Today with Codashop Top-Up Options",
+        "content": "HoYoverse, the renowned creator of blockbuster games like Genshin Impact and Honkai: Star Rail, has just launched its latest action-packed RPG, Zenless Zone Zero!  Even better, players can now top up their accounts seamlessly through Codashop, making it easier than ever to dive into the dystopian world of New Eridu.Zenless Zone Zero: A New Gaming Frontier The highly anticipated Zenless Zone Zero (ZZZ) is now available for download on Android, iOS, Microsoft Windows, and PlayStation 5. This free-to-play action role-playing game offers a thrilling mix of urban fantasy, high-octane combat, and intricate storylines that HoYoverse fans have come to love.  Enter New Eridu New Eridu: The game is set in New Eridu, the last bastion of humanity in a world devastated by the mysterious Hollows. This city blends late '90s and early 2000s nostalgia with cutting-edge technology, creating a vibrant, immersive environment.",
+        "imgUrl": "https://sm.ign.com/t/ign_sea/image/z/zenless-zo/zenless-zone-zero-has-a-global-release-date-across-pc-ps5-io_8mjs.1280.png",
+        "categoryId": 3,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:26:49.975+00",
+        "updatedAt": "2024-08-02 06:26:49.975+00"
+    },
+    {
+        "title": "Gaming on a Budget: How to Get the Best Gear Without Breaking the Bank",
+        "content": "Gaming is a popular and immersive hobby, but it doesn't have to be an expensive one. Whether you're a casual gamer or aspiring to go pro, it's possible to build a great gaming setup without breaking the bank. This guide will help you find the best budget-friendly gaming gear available. We'll cover essential accessories, tips for finding deals, and strategies for building and upgrading your gaming setup over time. Let's dive in!  Why Gaming on a Budget Matters Gaming on a budget is not just about saving money; it's about making smart choices that allow you to enjoy your hobby without financial stress. Whether you're a student, a working professional, or a parent, managing your expenses while still indulging in your favorite pastime is essential. Budget-friendly gaming gear can offer excellent performance and durability, ensuring you get the most value for your money.  Essential Budget Gaming Accessories A good gaming setup starts with the right accessories. Here are some must-have budget gaming accessories that offer great performance without a hefty price tag:  1. Redragon K552 Mechanical Gaming Keyboard Price: $49.99 Features: Compact design, Red switches, RGB backlighting, durable metal construction Why It’s Great: The Redragon K552 offers a solid build and responsive mechanical switches, making it a great choice for gamers on a budget. Its compact design saves space on your desk without compromising on performance. The RGB backlighting adds a customizable touch, perfect for creating an immersive gaming atmosphere. Available on Amazon with international shipping to Singapore.",
+        "imgUrl": "https://sm.ign.com/t/ign_ap/blogroll/h/hyperx-clo/hyperx-cloud-stinger-wireless-gaming-headset-review_pset.320.jpg",
+        "categoryId": 3,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:27:35.234+00",
+        "updatedAt": "2024-08-02 06:27:35.234+00"
+    },
+    {
+        "title": "Top 10 Gaming Keyboards Under $100 for Gamers",
+        "content": "n the world of gaming, having the right equipment can make all the difference. Whether you're battling in a high-stakes online match or exploring vast virtual worlds, a high-quality gaming keyboard is essential. However, you don't need to break the bank to get a top-notch keyboard. We've curated a list of the best gaming keyboards under $100 available for purchase on Amazon, all of which can be shipped to Singapore. Let's dive in and find the perfect budget-friendly keyboard for your gaming setup.  What to Look for in a Budget Gaming Keyboard? Before we get into the recommendations, here are a few factors to consider when choosing a gaming keyboard under $100:  Key Switch Type: Mechanical switches are preferred for their tactile feedback and durability. Membrane switches are quieter and more affordable. Backlighting: RGB lighting adds a visual flair and can improve gaming in low-light conditions. Build Quality: Look for keyboards with durable construction, preferably with metal or high-quality plastic. Additional Features: Programmable keys, media controls, and wrist rests can enhance your gaming experience. Top 10 Gaming Keyboards Under $100 1. Redragon K552 Mechanical Gaming Keyboard Price: $49.99 Key Features: Compact design, Red switches, RGB backlighting, durable metal construction Why It’s Great: The Redragon K552 offers a solid build and responsive mechanical switches, making it a great choice for gamers on a budget. Its compact design saves space on your desk without compromising on performance. The RGB backlighting adds a customizable touch, perfect for creating an immersive gaming atmosphere. With its durable metal construction, this keyboard is built to last, even through intense gaming sessions. Available on Amazon with international shipping to Singapore.",
+        "imgUrl": "https://sm.ign.com/t/ign_ap/blogroll/c/corsair-k5/corsair-k55-rgb-gaming-keyboard-review_z2pg.320.jpg",
+        "categoryId": 3,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:28:13.73+00",
+        "updatedAt": "2024-08-02 06:28:13.73+00"
+    },
+    {
+        "title": "IGN Plus Games: Claim a Free Mecha BREAK Beta Steam Key!",
+        "content": "If you're an IGN Plus member, a new game is available to claim now with IGN Rewards. You can claim a free Mecha Break Steam key with your membership while supplies last. If you're a fan of Mecha anime or titles like Armored Core, Mecha BREAK is perfect for you. From developer Amazing Seasun Games, this multiplayer title looks to offer explosive action like never seen before.  Claim a Free Mecha BREAK Beta Steam Key! This Mecha BREAK Steam key can be used to access the game's latest beta build, which is available during the Limited and Open Access phases, set to run from August 3 to August 13. Full access to the game will be available for IGN Plus users starting on August 2 at 7 PM, so you can play the game for the entirety of the beta period.  The beta test will be used by Amazing Seasun Games to stress test the server to prepare for launch. Regional servers will be available across most major continents, including North America, Africa, Europe, and more. One of the modes available will be the 6v6 multiplayer mode, where you face off against other players in explosive action combat.  Mecha BREAK is set to release across PlayStation 5, Xbox Series X|S, and PC via Steam. If you're interested in the title, don't miss your chance to check it out early with IGN Plus!  About IGN Plus If you're unfamiliar with IGN Plus, it's the ultimate subscription to get the most out of your IGN experience! Some of the perks include no ads across IGN, unlimited maps and checklists for games, free games each month, and even discounts at IGN Store! Learn more and try IGN Plus today.",
+        "imgUrl": "https://sm.ign.com/t/ign_ap/feature/i/ign-plus-g/ign-plus-games-claim-a-free-mecha-break-beta-steam-key_t6b3.1280.jpg",
+        "categoryId": 3,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:29:13.012+00",
+        "updatedAt": "2024-08-02 06:29:13.012+00"
+    },
+    {
+        "title": "Enter the World of Avatar: Frontiers of Pandora",
+        "content": "Taking place after the events of the first Avatar film, players will embark on a journey across the Western Frontier, an unexplored continent of Pandora. There, they unite with other Na’vi clans to shield Pandora from the formidable forces of the Resources Development Administration (RDA).  In Avatar: Frontiers of Pandora, players step into the shoes of an abducted Na’vi, was raised and trained by the human militaristic corporation known as the RDA. After the Battle of the Hallelujah Mountains led by Jake Sully, the RDA evacuates Pandora.",
+        "imgUrl": "https://sm.ign.com/t/ign_ap/screenshot/default/f98bbukw0aakjon_mwyy.960.png",
+        "categoryId": 3,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:29:44.902+00",
+        "updatedAt": "2024-08-02 06:29:44.902+00"
+    },
+    {
+        "title": "Mobile Gaming Is Evolving, Apple Is Evolving With It",
+        "content": "It’s no longer accurate to say mobile gaming is bigger than ever. With over $100 billion in revenue, there are more gamers on mobile devices than any other platform. But that’s never been a fair comparison. Mobile games have always been distinct from their console and PC counterparts since mobile games cater to a different audience. But maybe that’s no longer the case?  At a recent showcase for games coming to Apple devices, I got a peek at what looks to be the next evolution in gaming on mobile: bringing console and PC games straight to your iPhone and iPads.  Alongside new Apple Arcade exclusives, developers like Ubisoft, Capcom, and EA were in attendance to show off console-level experiences running on the latest Apple machines, ranging from iPhones and iPads to Macbooks.",
+        "imgUrl": "https://sm.ign.com/t/ign_ap/feature/m/mobile-gam/mobile-gaming-is-evolving-apple-is-evolving-with-it_1fh1.1280.jpg",
+        "categoryId": 3,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:30:35.399+00",
+        "updatedAt": "2024-08-02 06:30:35.399+00"
+    },
+    {
+        "title": "Analytics tool Oracle’s Elixir expands into VALORANT",
+        "content": "The tool is renowned for providing special and advanced metrics for Riot Games’ other flagship esports title, League of Legends. Oracle’s Elixir will bring metrics such as a Rounds Above Replacement (RAR) rating system in VALORANT, providing better insights into players’ individual performances.  The models and metrics will utilise GRID’s official esports data which is available on the GRID data platform to maintain accuracy and reliability. Aside from its endeavours in VALORANT and League of Legends, GRID launched the first-ever data portal for Rainbow Six Siege esports professional teams by partnering up with Ubisoft.  Founded back in 2015, Oracle’s Elixir has been a key player in esports analytics. The tool’s founder, Tim ‘Magic’ Sevenhuysen, counts nearly a decade of experience when it comes to working with esports data, having previously worked at North American organisation 100 Thieves as Director of Esports Analytics. Earlier this year, he joined GRID as a Senior Business Data Consultant.  “One of the main reasons I wanted to build Oracle’s Elixir for VALORANT was to show how the GRID Data Platform can help grow the overall esports scene and benefit teams, fans, and everyone else,” said Sevenhuysen. “Access to official data is imperative for accurate and reliable stats.”",
+        "imgUrl": "https://resources.esportsinsider.com/esportsinsider/2024/08/Oracle-Elixir-GRID.png",
+        "categoryId": 1,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:31:37.112+00",
+        "updatedAt": "2024-08-02 06:31:37.112+00"
+    },
+    {
+        "title": "The rise, fall and future of F1 esports",
+        "content": "Formula 1 (F1) is the most popular form of racing in the world with its Grand Prix events pulling in millions of viewers from around the world. Meanwhile, sim racing took the racing world by storm over the COVID-19 pandemic, with drivers trading in cars for sim racing rigs and the scene generating new eyes.   The potential for F1 esports, centred around the series’ game franchise, was clear to see. It had its moment in the sun, but after its tremendous rise during COVID came its hard fall. So, why did F1 esports go through a period of complete silence? Has the scene bounced back? And what’s in store for the future?   To answer that question it’s important to look back at the peak of F1 esports during the COVID-19 pandemic.",
+        "imgUrl": "https://resources.esportsinsider.com/esportsinsider/2024/08/f78f87e7-39f1-677f-9faa-1f0211a1f79f-edited.jpg",
+        "categoryId": 1,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:31:55.682+00",
+        "updatedAt": "2024-08-02 06:31:55.682+00"
+    },
+    {
+        "title": "Lisbon Site Takeover Esportsinsider Premium Leaderboard [July 2024] University of Salford’s Business School unveils new esports room",
+        "content": "The University of Salford’s Business School has unveiled an esports room ahead of the 2024/25 academic year.  Known as the Esports Lab, the room aims to provide an ‘immersive environment’ for students studying a Higher National Diploma (HND) in Esports Business Management.The University of Salford’s Esports Lab is equipped for tournament play, features an array of broadcasting equipment and has a dedicated suite for students to learn. According to a release, the room was designed for ‘students looking to pave the way’ in the esports industry. The Esports Lab also contains high-end gaming PCs and a Formula One (F1) licensed racing simulator.  The HND in esports business management was launched by Salford Business School in 2023. Those taking the course will learn about the esports ecosystem alongside working industry stakeholders including Manchester-based esports agency Horizon Union. The two-year course also features a work placement in addition to insights into the importance of ethics and integrity within the industry.  The University of Salford was established in 1850 and has around 21,500 students studying on campus. Notable alumni include English comedian Peter Kay and esports stage host OJ Borg.  UK universities continue to invest in esports, as highlighted by the University of West London launching two new degrees in May. Meanwhile, the University of Suffolk recently unveiled plans to launch an esports undergraduate course in 2025.  Iain Earle, Program Leader for Esports Business Management at Salford Business School, spoke on the news: “Esports is a rapidly growing and ever-evolving sector so, with the latest cutting edge technology integrated into the Lab, we have made a considerable investment to really elevate our student experience in this space, while ensuring access to industry grade equipment.  “Salford is now home to higher education’s leading Esports Lab which will be instrumental in ensuring our students have been fully immersed in the latest technology disrupting the sector, as they progress into their graduate careers.”",
+        "imgUrl": "https://resources.esportsinsider.com/esportsinsider/2024/08/university-of-salford-business-school-esports-room-large.jpg",
+        "categoryId": 1,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:32:22.274+00",
+        "updatedAt": "2024-08-02 06:32:22.274+00"
+    },
+    {
+        "title": "NES: The Middle East’s go-to esports production hub",
+        "content": "Saudi Arabia has been making headlines in the past few years when it comes to the gaming and esports industry. Not only is the country investing heavily in the Qiddiya megaproject but it’s also doing everything in its power to become a hub for entertainment, sports, and culture.  In such a landscape, gaming-focused digital media company NES is looking to establish itself as a leader in the space to capitalise on the growth of the esports, gaming and wider entertainment industry in the Kingdom, helping advance the nation’s esports and media production sectors.  NES is a subsidiary of Nesma Holding Company, a major holding company in the Kingdom of Saudi Arabia. Leveraging the country’s ongoing investments in the industry, NES says it offers cutting-edge production capabilities, ranging from broadcast production, advanced technology integration, and customisable studio setups.",
+        "imgUrl": "https://resources.esportsinsider.com/esportsinsider/2024/08/NES-Header-Image-1-large.png",
+        "categoryId": 1,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:32:42.246+00",
+        "updatedAt": "2024-08-02 06:32:42.246+00"
+    },
+    {
+        "title": "Esports World Cup launches mobile app",
+        "content": "The Esports World Cup, an ongoing multi-title esports event organised by the Esports World Cup Foundation, has launched a mobile app.  The app enables fans to check tournament scores and watch events that are currently taking place in Riyadh, Saudi Arabia. According to a release, the creation of an Esports World Cup app will ‘ensure the best possible fan experience’ for those attending the event and those watching from home. Alongside its live streaming capabilities and an overview of the tournament schedule, the app also allows fans to purchase tickets for the remaining competitions.  The inaugural Esports World Cup began in July and runs for eight weeks. Remaining tournaments include Apex Legends, Fortnite, Street Fighter 6, and Call of Duty: Modern Warfare 3. The event totals $60m (~£46.9m) in prize money split across 21 tournaments and its Club competition.  The Esports World Cup Foundation, the organisers of the Esports World Cup, is backed by the Saudi Arabian Public Investment Fund. This has resulted in criticism from teams and industry stakeholders due to Saudi Arabia’s human rights record.  In terms of viewership figures, the Esports World Cup’s League of Legends tournament broke one million peak viewers while the Overwatch 2 event peaked at 100,000.  Thamer Alshuaibi, Chief Admin Officer of the Esports World Cup Foundation, spoke on the launch of the app: “The Esports World Cup has been an unparalleled success, with the best clubs featuring the best players producing matches in elite, must-watch tournaments that have captivated gamers across the globe.  “The app has instantly become everyone on the ground’s go-to for every little bit of EWC news, and I know that will be the same for so many other like-minded gamers everywhere in the world.”",
+        "imgUrl": "https://resources.esportsinsider.com/esportsinsider/2024/08/Press-Release-The-Esports-World-Cup-Foundation-Launches-its-Esports-World-Cup-mobile-app-1-edited.jpeg",
+        "categoryId": 1,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:33:11.407+00",
+        "updatedAt": "2024-08-02 06:33:11.407+00"
+    },
+    {
+        "title": "PandaScore acquires Colorado betting licence",
+        "content": "Esports data and statistics provider PandaScore has expanded into the North American market by acquiring a betting licence for the state of Colorado.  Obtained earlier in July, the licence allows the company to operate as a vendor in the state and supply its esports odds, data and products to approved local operators. PandaScore told Esports Insider that Colorado’s extensive esports regulatory framework for a variety of eligible esports titles for regular betting played a significant role in making the state its entry point into the NA market.  Oliver Niner, Head of Sales at PandaScore, said: “The numbers are really good in Colorado – there are plenty of tier-one licensees to partner with, the legislation is clear and straightforward and esports is popular. This made it the ideal debut state for PandaScore…”  The data provider plans to help existing local partners expand their esports offerings with competitive esportsbooks and PandaScore products, such as its Bet Builder and Player Props solutions. Niner also shared with Esports Insider that it would soon go live with its first partner operator. Moreover, PandaScore is looking for new partners: “We are already engaging with all licensed operators in Colorado to make them aware of our esports betting odds, data and products.”  Looking ahead, Niner told Esports Insider that PandaScore plans to acquire licences in additional states, such as New Jersey and Ohio, throughout the upcoming months.  Established in 2015, PandaScore provides teams, bookmakers, fantasy apps and media companies with AI-powered statistics and odds for popular esports titles, such as League of Legends, Counter-Strike, and Dota 2. Its partners include Brazilian esports news portal Mais Esports as well as bookmakers William Hill and LOOT.BET.  Most recently, the data provider partnered with betting exchange Smarkets, which integrated PandaScore’s odds feed to elevate its esports products.",
+        "imgUrl": "https://resources.esportsinsider.com/esportsinsider/2024/07/shutterstock_2431739209-1-edited.jpg",
+        "categoryId": 1,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:33:55.105+00",
+        "updatedAt": "2024-08-02 06:33:55.105+00"
+    },
+    {
+        "title": "OPINION: The current state of Call of Duty esports",
+        "content": "The Call of Duty franchise continues to dominate the first-person shooter (FPS) genre with its annual releases and Warzone, its free-to-play battle royale generating huge revenues through sales and microtransactions.   Despite Call of Duty’s core focus being on its casual player base, the franchise’s esports scene has continued operating in the form of the Call of Duty League (CDL) and the World Series of Warzone.   Now in its fourth year, the CDL has stood firm with its geolocated franchise system where 12 city-based franchises compete across regular-season matches to secure a place in the season-ending Championship Weekend. July marks the end of the 2023/24 CDL season with Champs in Allen, Texas from July 18th to the 21st. In recent years, the league has moved streaming platforms, shown promising signs of growth, and continued some of the longest-standing rivalries in all of esports.  With Champs now over, it’s time to take a look at the current state of Call of Duty esports and how the emergence of the Esports World Cup could influence the future of Activision’s shooter series. The start of the 2023/24 season began shortly after the launch of Call of Duty: Modern Warfare 3 with the first of the four Major events and the first of a freshly-inked exclusivity deal with YouTube. The Modern Warfare 2 season that ran throughout 2022 was broadcast on the platform in addition to live-streaming platform Twitch resulting in content creators hosting watch parties ultimately bolstering viewing figures.  The opening Major of the Modern Warfare 3 season recorded peak viewing figures of 245,437 according to esports data platform Esports Charts. The second Major of the season recorded a peak viewership of 244,478, a promising sign of stability for the CDL. Major three saw a slight decline to 238,499 peak viewers, but the signs of the league continuing to attract viewers to the action were certainly there. The fourth and final Major recorded a sharp decline in peak viewership, recording 109,764 for a match between OpTic Texas and the Miami Heretics.  Major four could be considered an anomaly in what’s been a season of consistent viewing figures for the CDL. The original plan was to have the Carolina Royal Ravens, a franchise owned by esports infrastructure company ReKTGlobal, host and operate the event with fans in attendance. Instead, Activision hosted the event from Burbank, California with no spectators.",
+        "imgUrl": "https://resources.esportsinsider.com/esportsinsider/2024/07/state-of-the-ecosystem-call-of-duty-esports-large.jpg",
+        "categoryId": 3,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:34:19.053+00",
+        "updatedAt": "2024-08-02 06:34:19.053+00"
+    },
+    {
+        "title": "Chiefs Esports Club announces Aussie Broadband partnership",
+        "content": "Oceanic esports organisation Chiefs Esports Club has secured a year-long partnership with telecommunications company Aussie Broadband.  According to a release, the deal will see Chiefs Esports Club and Aussie Broadband develop ‘gamer-focused experiences, products and services.’ In a separate announcement, it was also revealed that Australian organisation Team Bliss will also be a part of the Aussie Broadband deal. Last year, Team Bliss acquired Chiefs Esports Club, however, both companies continue to operate as independent brands.  Founded in 2014, The Chiefs Esports Club primarily competes in the Rocket League scene. Most recently, the organisation competed in the RLCS 2024 Major 2 in London. Previously the team fielded a League of Legends roster in the Oceanic scene (LCO), however, its spot was acquired by FURY Global following the Team Bliss acquisition.   Aussie Broadband joins a Chiefs Esports Club commercial portfolio that includes the likes of Logitech G, Westfield and Bond University.   Brendan Harms, Chief Operating Officer of Chiefs Esports Club, commented on the deal: “A partnership with a trusted brand like Aussie Broadband makes complete sense to us at The Chiefs.   “We are committed to the continued growth of esports and gaming in Australia and Aussie Broadband shares the same sentiment. I’m personally very excited for what we can achieve together.”",
+        "imgUrl": "https://resources.esportsinsider.com/esportsinsider/2024/07/Screenshot-2024-07-30-at-15.54.39-large.png",
+        "categoryId": 1,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:34:48.631+00",
+        "updatedAt": "2024-08-02 06:34:48.631+00"
+    },
+    {
+        "title": "MLBB Women’s Invitational 2024 records over 250,000 peak viewers",
+        "content": "The 2024 edition of the Mobile Legends: Bang Bang (MLBB) Women’s Invitational has garnered 265,117 peak viewers, making it the fourth most-watched event in the history of women’s esports.  The tournament was part of the Esports World Cup (EWC) in Saudi Arabia, recording 2.5m watch hours over its 34 hour runtime, according to esports data platform Esports Charts. The third iteration of the MLBB Women’s Invitational was held at the AMAZON Arena in Riyadh from July 24th-27th, featuring a $550,000 (~£428,647) prize pool. The event performed significantly better than its predecessor, which attracted 179,024 peak viewers.  Although this year’s Invitational could not compete with the impressive 392,405 peak viewership of the inaugural edition, it did show higher average viewership and watch hours across a comparable airtime.  The most popular match was the Grand Final between Team Vitality and Smart Omega Empress, with the latter decisively securing the trophy. Interestingly, the roles were reversed in terms of team popularity by watch hours. Vitality was the audience’s favourite with 962,500 watch hours, followed by the tournament winner and Falcons Vega.    Vitality’s MLBB roster was formerly known as Bigetron Era, a competitive division of Indonesian esports organisation Bigetron Esports. However, Vitality acquired the team in May this year, marking the organisation’s entry into MLBB esports.  With MLBB being a mobile title primarily popular among Asian and Southeast Asian esports fans, some of the Invitational’s viewership stats differ from those of tournaments predominantly consumed by Western audiences. For example, the Indonesian broadcast was by far the most watched with 154,404 peak viewers. The English broadcast only ranks fourth (37,151), preceded by Tagalog (42,606) and Bahasa Malaysia (58,411).  Moreover, Twitch’s livestream (2,038) was overshadowed by Bigo Live (18,941), YouTube (115,058) and TikTok Live (125,964) in terms of peak viewers.  Multi-title esports festival EWC is set to run until August 24th and features a $60m (~£46.7m) prize pool. Its organiser, the Esports World Cup Foundation, is linked to the Saudi Arabian government. Therefore, the event has faced criticism concerning the country’s women’s rights, LGBTQ+ rights, and censorship records.  The Women’s Invitational is not the only MLBB competition to join the EWC. The game’s Mid Season Cup 2024 concluded on July 17th, recording a slight viewership decrease compared to its 2023 counterpart.",
+        "imgUrl": "https://resources.esportsinsider.com/esportsinsider/2024/07/MLBB-Womens-Invitational-large.jpeg",
+        "categoryId": 1,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:35:14.568+00",
+        "updatedAt": "2024-08-02 06:35:14.568+00"
+    },
+    {
+        "title": "TALON secures Certified Saudi Arabia and XP.GG partnerships",
+        "content": "Hong Kong-based esports organisation TALON has announced two separate partnerships with streetwear brand Certified Saudi Arabia and blockchain company Perion Labs.  The latter deal will be focused on XP.GG, Perion Labs’ new gaming platform that rewards users who play certain games. XP.GG launches on August 1st with Counter-Strike 2, Fortnite and Overwatch initially featured on the platform. A release noted that the project’s ‘Universal Battle Pass’ provides gamers with opportunities to earn prizes for performing well in the selected games.   Season 0’s prizes include rewards such as a gaming PC setup, a Fortnite-themed Secret Labs gaming chair, a PS5 and a CS2 knife, among others. XP.GG stated that prizes will increase in value each Season.  Sean Zhang, CEO of TALON, commented on the deal: “We’re excited to join forces with XP.GG, a platform that aligns with our commitment to rewarding and engaging gamers and growing the overall gaming community.”  Meanwhile, TALON’s partnership with Certified Saudi Arabia sees both brands collaborate to create two t-shirts and one hoodie. According to a release, the collection draws inspiration from TALON’s logo as well as the falcon, Saudi Arabia’s national bird.  The TALON x Certified Saudi Arabia collection officially launched on July 29th and coincides with the Esports World Cup, a multi-title esports event backed by the Saudi Arabian government. TALON has three rosters competing at the Esports World Cup in PUBG, Starcraft 2 and Rainbow 6 Siege.   TALON’s collaboration with the streetwear brand was facilitated by Saudi-based gaming consultancy Hawk Gaming Group.  Ibrahim Al Damegh, Co-founder at Certified Saudi Arabia, said: “Working with TALON Esports has been an incredible experience.  “We are proud to contribute to the Esports World Cup festivities in Riyadh with this limited edition collection. Our designs aim to inspire both the esports community and fashion enthusiasts alike.”",
+        "imgUrl": "https://resources.esportsinsider.com/esportsinsider/2024/07/Talon_XPGG_1-large.png",
+        "categoryId": 1,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:35:43.803+00",
+        "updatedAt": "2024-08-02 06:35:43.803+00"
+    },
+    {
+        "title": "Global Head of League of Legends Esports Naz Aletaha departs Riot Games",
+        "content": "Naz Aletaha, Riot Games’ Global Head of League of Legends Esports, has announced her departure from the company after more than 12 years.   Aletaha, who revealed the decision on social media, has been on a sabbatical from Riot Games since February 2024. Her departure from the company will not be imminent, with Aletaha noting that she’ll stay on for “the next few months to ensure a smooth transition.” Chris Greeley, Riot Games’ Global Head of Strategy for League of Legends Esports, led the division during Aletaha’s sabbatical. According to the announcement, he will continue leading the team for the foreseeable future.  An excerpt from Aletaha’s post reads: “It’s been an incredible 12.5-year run here at Riot Games, and I couldn’t be prouder of what we’ve accomplished as a team. This decision wasn’t easy, but it’s the right time for me to explore new horizons. I’ll be taking the next few months to transition the team before leaving the company by the fall.  “Being part of this community — this movement to build competitive gaming into professional sport — has been the honour of a lifetime.”  After leaving Activision in 2012, Aletaha started her tenure at Riot Games as its Senior Manager of B2B Payments. After two years she moved into the company’s esports division as its Head of Global Esports Partnerships and Business Development, a role she held for over seven years.   In 2021, she was promoted to Global Head of League of Legends Esports. Aletaha’s role consists of creating and executing League of Legends esports’ vision, strategy and roadmap. Aletaha was inducted into Esports Insider’s Hall of Fame Class of 2020.  The League of Legends esports ecosystem is undergoing a major shake-up that has taken place over the last couple of years. This included the LEC expanding to include MENA and introducing a three-split structure from 2023. Moreover, in 2025 the LCS will merge with the CBLOL to create a pan-Americas League.",
+        "imgUrl": "https://resources.esportsinsider.com/esportsinsider/2024/07/riot-games-departure-large.png",
+        "categoryId": 1,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:36:11.447+00",
+        "updatedAt": "2024-08-02 06:36:11.447+00"
+    },
+    {
+        "title": "Esports Around The World: Portugal",
+        "content": "Introduction With a population of roughly 10 million, Portugal sits at the very Westernmost point of continental Europe. Despite sharing the Iberian peninsula with its much larger neighbour Spain, Portugal manages to pull its own weight in esports.  Esports in Portugal has a surprisingly long history. Portuguese esports organisation K1ck Esports was established in 1998, making it one of the oldest esports organisations in the world. Several other organisations also claim decades-long histories such as non-profit Grow uP, founded in 2002, and For The Win which dates to 2012. Portugal also plays host to Lisboa Games Week, a major gaming trade fair running since 2014, as well as XL Games.  Today, Portugal has seen a few big Counter-Strike events hosted in the country. BLAST Premier’s 2022 Spring Finals and the BLAST Pro Series Lisbon 2018 were both held at the MEO Arena in the capital, Lisbon. There are several Portuguese Counter-Strike players relevant on the global stage, particularly Ricardo ‘fox’ Pacheco, alongside his four Portuguese teammates at SAW, which participated at the PGL Major Stockholm 2024.  The country’s biggest domestic Counter-Strike league is the Master League, run by event operator E2Tech. The company also organises a range of regional esports and gaming events including Rocket Master League Portugal and efootball esports competitions, the latter of which is in collaboration with the Portuguese Football Federation.  While generally smaller than the Counter-Strike scene in the country, Portugal has a domestic League of Legends league, the Liga Portuguesa de League of Legends (LPLOL). According to its website, the tournament’s commercial portfolio includes the likes of Worten, Lenovo Legion, Kitkat and Alpha Gamer. Additionally, the country runs a domestic VALORANT Challengers League (VCL) called Tempest.  LPLOL and VCL: Tempest are organised by Inygon, a Portuguese esports startup that offers tournament operations and other esports services. There are a handful of notable LoL players from Portugal, such as ex-Giants player Amadeu ‘Attila’ Carvalho.  Meanwhile, Gaspar ‘Hypno’ Machado is a Quake and Unreal Tournament star hailing from Portugal who has several major trophies under his belt.  Additionally, multi-title women’s esports event GIRLGAMER Esports Festival — which is run by Grow uP — was held in Lisbon in 2018. Telmo Silva, the Founder and CEO at Grow uP eSports, was inducted into the ESI Hall of Fame in 2022 as a Youth Champion. Meanwhile, in May 2022, global customer experience company Teleperformance unveiled a €1.2m (~£1.0m) esports arena in Lisbon that is primarily used by its staff and for private events.  With its rich footballing history, Portugal has also been active in the football sports simulation space. In March 2023 the Portuguese Football Federation (FPF), the governing body for football in Portugal, launched a campaign to popularise esports in the country — in particular EA Sports FC and eFootball. The campaign aims to communicate the benefits of esports with a broader audience in Portugal, focusing on Portuguese universities.  The FPF also features a specialised esports division called FPF eFootball. The division organises several competitions and chooses Portugal’s national esports team in EA Sports FC.  In addition to the FPF’s support, the country’s top-flight football clubs participate in eLiga Portugal, an official esports competition organised by the Portuguese Football League (LigaPortugal) that is a part of the wider EA FC ecosystem. The tournament sees clubs such as Benfica, Boavista, Braga and Sporting (who upgraded their own esports facility in 2023) compete.  Portuguese international football star Diogo Jota additionally launched and owns his own esports team, Luna Galaxy (formerly Diogo Jota Esports).  Other sporting federations in Portugal have started to identify esports as a viable opportunity. The Portuguese Federation of Automobile and Karting has a division which runs sim-racing competitions. Moreover, the Portuguese Basketball Federation has a tournament for NBA2K players.  In September 2024, Esports Insider will hold its flagship esports, video games and gaming creator industry conference, ESI Lisbon, in the country’s capital. The conference gathers leading stakeholders from the esports, gaming and creator sectors worldwide at the MEO Arena from September 23rd-25th, and includes special events such as the ESI Film Festival, the ESI Hall of Fame and Esports Leaders.",
+        "imgUrl": "https://resources.esportsinsider.com/esportsinsider/2024/07/Esports-Around-The-World-Portugal-large.png",
+        "categoryId": 1,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:37:10.024+00",
+        "updatedAt": "2024-08-02 06:37:10.024+00"
+    },
+    {
+        "title": "What exactly are keyboard switches?",
+        "content": "Greens, reds, browns, blues, maybe yellows? These are all types of mechanical keyboard switches. It can be quite confusing for those who don’t know what these colours mean and how they affect typing and gaming experiences.   This article aims to explain what mechanical keyboard switches are, how switches work and what are the most popular versions for different use cases.",
+        "imgUrl": "https://resources.esportsinsider.com/esportsinsider/2024/07/shutterstock_1992627728-min-edited.jpg",
+        "categoryId": 3,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:37:42.95+00",
+        "updatedAt": "2024-08-02 06:37:42.95+00"
+    },
+    {
+        "title": "Barnsley College partners with Grassroots Sports Academy",
+        "content": "Barnsley College has partnered with Grassroots Sports Academy to create over 100 work experience placements and job opportunities within esports.  The work experience will take place at Grassroots Sports Academy-run sports and esports clubs within primary schools and community clubs. According to the Barnsley College article, the partnership will not only give work experience opportunities and career pathways to its students but also provide benefits for “the children of Barnsley”.  The initiative aims to have students learn employability skills through running activity-driven camps and groups. Six Barnsley College students are already employed at Grassroots Sports Academy where they have gained experience and skills in the esports industry.  Grassroots Sports Academy is an established community brand in Barnsley, Yorkshire and offers a variety of services. Young people can sign up for football, dodgeball and other sports activities whilst adults can book the company for corporate and team-building days.  Chris Newton, Managing Director at Grassroots Sports Academy, commented on the announcement: “I’m delighted to announce that we have secured a partnership with the College, that will see the esports industry grow exponentially in Yorkshire.  “We have seen a gap in the market around 18 months ago for an Esports division and felt the time was right to start pushing this, we have been working away and getting stuff in place to launch this correctly. We then got introduced to the College’s Esports team to which we have now created and delivered a joint venture for Barnsley’s first Esports event at the Metrodome which as a first event was great.”  This is not the first step into esports that Barnsley College has taken. In January 2023, the college partnered with Barnsley FC to organise esports tournaments and field a FIFA team. The overall aim of this partnership for Barnsley College is to make sure its students leave education with employability skills and hands-on experience on a CV that will impress employers.",
+        "imgUrl": "https://resources.esportsinsider.com/esportsinsider/2024/05/IMG_4152-4-1.jpg.webp",
+        "categoryId": 1,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:38:12.221+00",
+        "updatedAt": "2024-08-02 06:38:12.221+00"
+    },
+    {
+        "title": "RUMOR: Here's How Marvel Studios Plans To Write Kang Out Of The MCU Leading Into AVENGERS: DOOMSDAY",
+        "content": "A new rumour claims to reveal how Marvel Studios intends to move on from Kang and his many Variants and, believe it or not, it may have already happened! You can find more details on those plans here... News By JoshWilding - Aug 01, 2024 12:08 PM EST Filed Under: Avengers: Doomsday Source: The Cosmic Circus We first met Kang in his \"He Who Remains\" form at the end of Loki's first season. It was revealed that, following a Multiversal War, he was the last Kang standing and free to then create his own Sacred Timeline to rule over forever more.   Having grown bored with an eternity trapped at the end of time, He Who Remains hoped Loki and Sylvie would take his place. Instead, the latter killed him, though we'd later learn it was all part of Kang's plan as he knew he'd be resurrected after the failing Time Loom destroyed the TVA and branching timelines (all while leaving the Sacred Timeline to thrive).",
+        "imgUrl": "https://comicbookmovie.com/cdn-cgi/image/fit=cover,width=670,height=377,quality=75/https://comicbookmovie.com/images/articles/banners/212445.jpg",
+        "categoryId": 2,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:45:19.882+00",
+        "updatedAt": "2024-08-02 06:45:19.882+00"
+    },
+    {
+        "title": "Marvel officially replaces Doctor Strange with the last person we expected",
+        "content": "Marvel officially replaces Doctor Strange with the last person we expected We’re all DOOMED! Richard Lee Breslin Richard Lee Breslin  It’s always talk of the town when big news is announced at San Diego Comic-Com especially when it comes to the Marvel universe.  Following the allegations of assault against Jonathan Majors, for which he was later sentenced, Marvel and Disney not only set plans in motion to replace the actor but Kang the Conqueror would also be replaced as the MCU’s big villain following in the footsteps of Thanos.  Check out the Doctor Strange in the Multiverse of Madness trailer below!",
+        "imgUrl": "https://images.ladbible.com/resize?type=webp&quality=70&width=1920&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltbc1876152fcd9f07/blt0289115b20b24c56/66a8bf39866de472f950f253/doctor_strange_doom_iron_man.png",
+        "categoryId": 2,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:45:46.814+00",
+        "updatedAt": "2024-08-02 06:45:46.814+00"
+    },
+    {
+        "title": "Jamie Lee Curtis sorry for ‘stupid’ Marvel outburst",
+        "content": "She scoffed, and then said: “Bad.”  Curtis’s dig at Marvel caused hysterics among her co-stars in the upcoming action-adventure Borderlands.  But Curtis has now backtracked on her shady comment, issuing a grovelling public apology via social media, revealing she even reached out to Head of Marvel Studios Kevin Feige.  “My comments about Marvel were stupid and I will do better. I’ve reached out to Kevin Feige and will no longer play in that mud slinging sandbox of competition we call the internet nor will I engage in the toilet paper promotion or game play that is designed for clicks not content or conversation,” she tweeted.  Marvel has faced ridicule over the last few years after suffering numerous high-profile cinematic flops such as The Marvels and Ant Man, both of which lost the studio hundreds of millions of dollars and were panned by critics.  “Hey Marvel, she just terminated you,” joked her Borderlands co-star James McAvoy.",
+        "imgUrl": "https://content.api.news/v3/images/bin/e1096c8c27146040a502e34eb8ab9e80?width=1024",
+        "categoryId": 2,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:47:12.474+00",
+        "updatedAt": "2024-08-02 06:47:12.474+00"
+    },
+    {
+        "title": "Deadpool Variants from Across the Multiverse",
+        "content": "Even in a universe full of heroes and villains, Deadpool stands out. Between his lightning-fast sense of humor and lethal skills, there's nobody quite like Deadpool—except, perhaps, for his variants across the Multiverse.  From the heroic to the hilarious and the horrifying, all of Deadpool's variants reflect some aspect of Wade Wilson and the multitudes he contains. While there are infinite possibilities and \"what if\" scenarios in the Multiverse, the Merc with a Mouth and his many variants prove that some things never change.   Now, let's take a closer look at some of Deadpool's wildest variants from across the Multiverse. From the heroes of the Deadpool Corps who came together to save the Multiverse to their bloodthirsty rivals in the Evil Deadpool Corps, we'll break down Deadpool's variants and what makes them unique.",
+        "imgUrl": "https://cdn.marvel.com/content/1x/deadpool_corps_2010_12_cover_card_0.png",
+        "categoryId": 2,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:47:39.744+00",
+        "updatedAt": "2024-08-02 06:47:39.744+00"
+    },
+    {
+        "title": "The Biggest Marvel News from San Diego Comic-Con 2024",
+        "content": "San Diego Comic-Con was a wild ride this year, and the news from Marvel kept buzzing! From Marvel Comics' Next Big Thing panel, to the hotly anticipated announcements from Marvel Games' upcoming Marvel Rivals, and building up to an unbelievable night of reveals at Marvel Studios' Hall H event, it was one adrenaline boost after another. Fans turned out in full force at the Marvel Booth, and you couldn't miss Marvel cosplayers wherever you went.   We've captured the biggest highlights of the weekend here, so you can stay up-to-date on all the news coming out of the Marvel Universe! Make no mistake, SDCC 2024 was a memorable one!  Day 1: Thursday, July 25, 2024 Marvel Rivals: The Story, Art and Sound of the Game Marvel Rivals kicked off the Con with a bang when it dropped a new Cinematic Trailer, as well as a special character reveal of Jeff the Land Shark!  At the special panel Marvel Rivals: The Story, Art and Sound of the Game, fans were treated to an exclusive behind-the-scenes look at the creation of the next great Super Hero shooter game. Delving into the story, art, and sound design of the game, moderator Ryan Penagos (VP & Creative Executive of Digital Marketing) hosted the NetEase Games creative team, including Jinghua Duan (Lead Narrative Designer), Dino Ma (Art Director), and Donger Gan (Narrative Designer), along with the Marvel Games creative team: Danny Koo (Executive Producer), Dakota Maysonet (Creative Development Manager), and Dan LaDuca (Senior Art Director).",
+        "imgUrl": "https://cdn.marvel.com/content/1x/sh_l6782.jpg",
+        "categoryId": 2,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:48:00.402+00",
+        "updatedAt": "2024-08-02 06:48:00.402+00"
+    },
+    {
+        "title": "SDCC 2024: All the News from Marvel Studios’ Hall H Panel",
+        "content": "The panel kicked off with a musical moment, as a full Deadpool & Wolverine choir took the stage in red and yellow robes. To celebrate the film’s release in theaters this weekend, the choir delivered a rousing rendition of Madonna’s “Like a Prayer,” as a troop of Deadpool variants danced through the aisles. Then, Marvel Studios president Kevin Feige took the stage to kickstart the presentation, introducing Deadpool & Wolverine star Rob Delaney as the evening’s host.",
+        "imgUrl": "https://cdn.marvel.com/content/1x/jg2_9988_e9axskiv.jpg",
+        "categoryId": 2,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:48:23.491+00",
+        "updatedAt": "2024-08-02 06:48:23.491+00"
+    },
+    {
+        "title": "July 31's New Marvel Comics: The Full List",
+        "content": "The last gasps of BLOOD HUNT rage on in MIDNIGHT SONS: BLOOD HUNT (2024) #3 by Bryan Edward Hill and German Peralta. With the Midnight Sons now (mostly) banded together, a showdown is imminent… Which means Blade must finally answer to his former comrades! Can Blade be saved? What about his enemies? And what's the future for the Midnight Sons?  Meanwhile, in Ryan North and Ivan Fiorelli's FANTASTIC FOUR (2022) #22, Alicia Masters and Reed Richards—and the survivors of New York—are lost, alone against the vampire menace, and Reed's exhausted. But they still need to survive—and avoid being turned into undead blood parasites. Reed has one last desperate hope, and it's not guaranteed to work—but there is at least a chance…if he can survive long enough to test it! This conclusion to our BLOOD HUNT tie-in ends in a twist that you will not want to miss!  Then, INFINITY WATCH continues in MS. MARVEL ANNUAL (2024) #1 by Iman Vellani, Sabir Pirzada, and Giada Belviso. Hero or Villain? That's the question Multitude must answer as he stands at the crossroads of his own destiny, bonded to one of the Infinity Stones and brimming with power but no purpose. Will a run-in with Ms. Marvel be enough to tip the scales toward good, or will Multitude's guilt drag him down? Don't miss out as the Marvel Universe-shaking saga continues here, True Believers! Plus, Derek Landy and Sara Pichelli bring Nick Fury into the story. But what ties him to the INFINITY WATCH?!  Prepare for VENOM WAR with Erica Schultz and Luciano Vecchio's BLACK WIDOW: VENOMOUS (2024) #1. Natasha Romanoff, the infamous spy known as the Black Widow, didn't go looking to bond with an alien symbiote. But a good spy works with all the tools available to her, and when one of the most powerful and versatile weapons in the universe lands in your lap… you take it. Now she just needs to figure out how to work with a weapon with its own drives and desires. Redefining Widow's relationship with her symbiote, and setting the stage for her appearance in VENOM WAR!  Elsewhere, a new path is forged in X-FORCE (2024) #1 by Geoffrey Thorne and Marcus To. The world is fractured. Forge uses his powers of invention to devise the only fix: an all-new, all-different X-Force! Forge leads a custom-made, handpicked team of mutants—Rachel Summers, Betsy Braddock, Sage, Surge, and introducing Tank—in off-the-books missions so dire, so integral to the fate of the Marvel Universe, there's no time to stop for permission! As Forge detects increasing threats across the planet, he will recruit a specialist for each target. First up: that regenerating degenerate, Deadpool! Be here for an X-Force like you've never seen them before, stick around to see who joins, who lives, who dies and uncover the mystery of Forge's discovery!  Discover the world-altering ramifications of BLOOD HUNT, meet the new X-Force team, prepare for VENOM WAR, and more by picking up the latest titles this week! From fresh comics to collections and even Marvel Unlimited, find the full list of new releases here!",
+        "imgUrl": "https://cdn.marvel.com/content/1x/blood_hunt_5.jpg",
+        "categoryId": 2,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:48:54.66+00",
+        "updatedAt": "2024-08-02 06:48:54.66+00"
+    },
+    {
+        "title": "YouTube star MrBeast acknowledges 'inappropriate' comments",
+        "content": "MrBeast, whose real name is Jimmy Donaldson, has come under fire after several allegations have been made about him and a long-time collaborator. The 26-year-old's YouTube empire is worth an estimated $700m.",
+        "imgUrl": "https://e3.365dm.com/24/08/1600x900/skynews-mrbeast-youtube-jimmy-donaldson_6644345.jpg?20240801070656",
+        "categoryId": 2,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:49:46.475+00",
+        "updatedAt": "2024-08-02 06:49:46.475+00"
+    },
+    {
+        "title": "BBC boss faces urgent meeting with culture secretary over handling of Huw Edwards case",
+        "content": "Culture Secretary Lisa Nandy will hold an urgent meeting with BBC boss Tim Davie over his handling of the Huw Edwards case.  Edwards, who was the BBC's highest-paid newsreader before he resigned in April, pleaded guilty to three counts of making indecent images of children on Wednesday.",
+        "imgUrl": "https://e3.365dm.com/24/07/1600x900/skynews-court-huw-edwards_6643527.jpg?20240731092916",
+        "categoryId": 2,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:51:15.18+00",
+        "updatedAt": "2024-08-02 06:51:15.18+00"
+    },
+    {
+        "title": "Former BBC newsreader Huw Edwards pleads guilty to making indecent images of children",
+        "content": "Stood in the dock he looked slightly shocked when the first charge was put to him before pleading guilty.  Edwards would have been sacked over 'abhorrent' images of children, BBC says  He had 41 photographs - seven category A images, 12 category B pictures, and 22 category C - on the messaging app WhatsApp.  The category A images - the most serious kind - were mostly of children aged 13 to 15, the court heard.  But there were two moving images of a young child, possibly aged between seven and nine years old, according to prosecutors.",
+        "imgUrl": "https://e3.365dm.com/24/07/1600x900/skynews-huw-edwards-court_6643652.jpg?20240731105952",
+        "categoryId": 2,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:52:02.328+00",
+        "updatedAt": "2024-08-02 06:52:02.328+00"
+    },
+    {
+        "title": "Jennifer Garner trapped in lift at Comic-Con event",
+        "content": "She posted multiple videos about her lift ordeal on Instagram with the caption: \"Baby's first Comic Con: a short story.\"  The timing of the footage is unclear, but Garner attended the Comic-Con panel for Deadpool And Wolverine earlier in the week.  At two minutes, Garner said: \"Hey guys, we're stuck on this elevator. I could use a Wolverine, I could use a Deadpool. I could use someone... we're looking for stairs.  \"Thanks for having us here. My first Comic Con. Bye for now.",
+        "imgUrl": "https://e3.365dm.com/24/07/1600x900/skynews-jennifer-garner-deadpool_6643008.jpg?20240730153751",
+        "categoryId": 2,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:52:32.352+00",
+        "updatedAt": "2024-08-02 06:52:32.352+00"
+    },
+    {
+        "title": "Barbara Butch: French DJ files legal complaint after Paris Olympics opening ceremony sparks online abuse",
+        "content": "A French DJ who performed at the Paris Olympics opening ceremony has filed a legal complaint after suffering \"an extremely violent campaign\" of online abuse.  Barbara Butch has been threatened with \"death, torture, and rape, and has also been the target of numerous antisemitic, homophobic, sexist and grossophobic insults [stigma based on body size]\", her lawyer said.",
+        "imgUrl": "https://e3.365dm.com/24/08/1600x900/skynews-barbara-butch-olympics_6644510.jpg?20240801141951",
+        "categoryId": 2,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:52:55.734+00",
+        "updatedAt": "2024-08-02 06:52:55.734+00"
+    },
+    {
+        "title": "Arrest warrant issued for Power Rangers actor Hector David Rivera",
+        "content": "An arrest warrant has been issued for the actor who played the green ranger in the Power Rangers film franchise over an alleged parking dispute, police say.  A truck linked to a man, identified as Hector David Rivera, was parked in a spot for people with disabilities at a shopping centre in Nampa, Idaho, when a man confronted him, city police spokesperson Carmen Boeger said.",
+        "imgUrl": "https://e3.365dm.com/24/08/1600x900/skynews-hector-david-jr-connected-emmy-awards_6644420.jpg?20240801083722",
+        "categoryId": 2,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:53:20.571+00",
+        "updatedAt": "2024-08-02 06:53:20.571+00"
+    },
+    {
+        "title": "Andrea Spendolini-Sirieix: The Team GB diving star whose father is TV host Fred Sirieix",
+        "content": "Spendolini-Sirieix and Lois Toulson secured a bronze medal in the women's synchronised 10m platform diving event.  But she's had to overcome unique challenges to get here - from making a name for herself beyond being the daughter of First Dates star Fred Sirieix to overcoming a fear of diving and becoming one of her country's brightest talents.  Here's what you need to know about Spendolini-Sirieix.",
+        "imgUrl": "https://e3.365dm.com/24/07/1600x900/skynews-andrea-spendolini-sirieix_6639894.jpg?20240726133836",
+        "categoryId": 2,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:53:43.288+00",
+        "updatedAt": "2024-08-02 06:53:43.288+00"
+    },
+    {
+        "title": "Taylor Swift 'completely in shock' over Southport stabbings",
+        "content": "aylor Swift has said she is \"completely in shock\" after children attending a dance class inspired by her music were attacked in Southport.  Warning: This article contains descriptions some readers may find distressing.  Swift, 34, said in a post on Instagram: \"The horror of yesterday's attack in Southport is washing over me continuously and I'm just completely in shock...  \"The loss of life and innocence, and the horrendous trauma inflicted on everyone who was there, the families and first responders.  \"These were just little kids at a dance class,\" she added.  \"I am at a complete loss for how to ever convey my sympathies to these families.",
+        "imgUrl": "https://e3.365dm.com/24/02/1600x900/skynews-taylor-swift-eras-tour_6470474.jpg?20240402150232",
+        "categoryId": 2,
+        "authorId": 1,
+        "createdAt": "2024-08-02 06:54:25.154+00",
+        "updatedAt": "2024-08-02 06:54:25.154+00"
+    },
+    {
+        "title": "You May Be Able to See the Northern Lights This Week — Starting Tonight",
+        "content": "We haven't had an impressive northern lights show in a few months, but that might change tonight.  The National Oceanic and Atmospheric Administration (NOAA) Space Weather Prediction Center (SWPC) has issued a geomagnetic storm watch from Tuesday to Thursday— and that means there's a chance for some solid aurora action farther south than usual.  Specifically, the SWPC states that aurora's \"may be seen as low as Pennsylvania to Iowa to Oregon.\" The sun lit up with solar flares the last few days, and they've shot out a series of coronal mass ejections (CMEs) that are set to bombard Earth with energized particles. As such, the SWPC predicts a maximum geomagnetic storm level of G3 today, then G2 on both Wednesday and Thursday. (Geomagnetic storms are rated on a scale of G1, or minor, to G5, or extreme — the May 10 aurora spectacle occurred during a G5 storm.)",
+        "imgUrl": "https://www.travelandleisure.com/thmb/C79J0wOgt8lrBQEhY4AFBozS6HI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TAL-northern-lights-NL0724-71f00b0a6c7b4a5aa181c193c4e3c15c.jpg",
+        "categoryId": 4,
+        "authorId": 2,
+        "createdAt": "2024-08-02 06:59:50.526+00",
+        "updatedAt": "2024-08-02 06:59:50.526+00"
+    },
+    {
+        "title": "Southwest Is Launching These Routes to Florida in Time for Winter Travel",
+        "content": "Southwest Airlines is bringing back a few popular domestic routes to connect travelers to warm-weather destinations early next year.  Starting in January, the airline will launch a few seasonal routes just in time for peak winter travel. These new services will operate with varying frequencies for several weeks before concluding in early March:   Providence (PVD) to Palm Beach (PBI): Up to 4x weekly Columbus (CMH) to Miami (MIA): Up to 6x weekly Pittsburgh (PIT) to Miami (MIA): Up to 6x weekly Chicago (MDW) to Palm Springs (PSP): Up to 4x weekly “We continue to optimize our schedule for today’s customer—listening to their preferences and responding accordingly,” a spokesperson for Southwest said in a statement shared with T+L. “Southwest is happy to connect these traditionally colder locales with sunny skies and sand during the wintertime.”  All of these flights can be booked directly on Southwest’s website, where travelers can also find the full schedule for each new service. To meet travel demand after the holidays, the airline mentioned to T+L that these seasonal routes are more likely to be offered on popular travel days, such as Mondays, Thursdays, and Fridays, rather than on Tuesdays and Wednesdays.  While Southwest will be the only airline to operate service between Chicago-Midway and Palm Springs, American Airlines and United Airlines both offer nonstop service from Chicago O’Hare International Airport (ORD) to the Sonoran Desert. Other carriers, such as JetBlue and American Airlines, already operate the other new seasonal routes listed.  Additionally, Southwest allows travelers to bring two free checked bags, a major differentiator from other carriers. The announcement of these new flights comes days after Southwest announced an overhaul to its open-boarding policy recent overhaul of its open-boarding policy. Although it’s not yet confirmed when assigned seating will take effect, this marks a significant change after 50 years of open seating.",
+        "imgUrl": "https://www.travelandleisure.com/thmb/L6dWgDseNCCkBE0ISr8VHN6xyP4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TAL-miami-southweset-SWMIAMI0724-1870a32dec514334adc62c08448a06e9.jpg",
+        "categoryId": 4,
+        "authorId": 2,
+        "createdAt": "2024-08-02 07:00:12.602+00",
+        "updatedAt": "2024-08-02 07:00:12.602+00"
+    },
+    {
+        "title": "See Inside Alaska Airlines' Newest Lounge at San Francisco International Airport",
+        "content": "Alaska Airlines has finally opened the doors to its newest airport lounge at Harvey Milk Terminal 1 of San Francisco International Airport.  The 11,000-square-foot space marks a significant upgrade from its previous location in Terminal 2, and just opened to the public on Wednesday, according to the airline. Located across from Gate B6, travelers can access the space from 5 a.m. to 7 p.m. daily. It features amenities including privacy booths and floor-to-ceiling windows overlooking the tarmac.",
+        "imgUrl": "https://www.travelandleisure.com/thmb/ocf19pwsSMkh3g9yJ2p0ycC23sk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TAL-seating-al-sf-SFALLOUNGE0724-822d1e85ae8d447084abb6bcfea3a9e0.jpg",
+        "categoryId": 4,
+        "authorId": 2,
+        "createdAt": "2024-08-02 07:00:30.712+00",
+        "updatedAt": "2024-08-02 07:00:30.712+00"
+    },
+    {
+        "title": "JetBlue Expands Service to Florida With New Routes to Fort Myers, Fort Lauderdale, and More",
+        "content": "JetBlue is on the move with new flight routes, while saying goodbye to others. Ahead of the winter travel season, the airline will add a variety of new routes to popular destinations such as Fort Lauderdale, Orlando, and Phoenix.  “These moves underscore JetBlue's commitment to refining its network while leveraging its award-winning experience,” the airline shared in a release announcing the news.   In the New York area, the airline will begin new service from Long Island’s MacArthur Airport (ISP), with a new daily flight to Orlando, and also service to Fort Lauderdale (FLL) and West Palm Beach (VPS) four times a week.  From Boston Logan Airport, the airline will increase flights with a second daily route to Phoenix, which will also feature Mint, a business class-level service with a flat-bed seat. From Manchester, New Hampshire, JetBlue will expand in Florida to Fort Lauderdale, Fort Myers, and Orlando in January 2025. The Orlando route will operate daily, while the Fort Lauderdale and Fort Myers route will operate three days a week.  The airline will also begin a new Portland, Maine (PWM) to Orlando (MCO) route in October, that will operate three times a week as a winter seasonal service.",
+        "imgUrl": "https://www.travelandleisure.com/thmb/3rKb6Y6ok8Cj8Q0Wjh02oc3e5_g=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TAL-jetblue-routes-fl-JETBLUEROUTES0724-3acd7137ab3e42beab851cfba4c993d3.jpg",
+        "categoryId": 4,
+        "authorId": 2,
+        "createdAt": "2024-08-02 07:00:51.015+00",
+        "updatedAt": "2024-08-02 07:00:51.015+00"
+    },
+    {
+        "title": "This Is Where You Should Sit on Southwest Flights for Fastest Drink Service, According to a Flight Attendant",
+        "content": "While Southwest just announced changes to its seating program (gone are the days of seat free-for-alls), one thing that hasn’t changed is its beverage program. The jostle of the cart, the “what would you like?” and the “ice or no ice?” But while you wait for your drink, you might be interested to know that the service starts in certain rows, and those rows are well-known before a flight. So yes, you can get your drink first.   As one Southwest flight attendant shared on Reddit, there are certain seats on certain planes (the majority of which make up the Southwest fleet) that are served first when it comes to drinks. “It’s based on seat order. We all have our sections that we take care of. A little secret, on the Boeing 737-700, if you sit in row 1, 9 or 17, you will get your drink first. If you’re flying on a Boeing 737-800, if you sit in row 1, 9, 16, or 23, you will get your drink first.”  Of course, we had to verify whether this is true or not — and turns out, it very much is.",
+        "imgUrl": "https://www.travelandleisure.com/thmb/NNopS3Ckgj43cNsAZ3pKnzqB2Bs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TAL-interior-southwest-airplane-SWSALE0423-e8bf90d152e04def96f29c1d99cdfd43.jpg",
+        "categoryId": 4,
+        "authorId": 2,
+        "createdAt": "2024-08-02 07:01:08.603+00",
+        "updatedAt": "2024-08-02 07:01:08.603+00"
+    },
+    {
+        "title": "This Major International Airline Is Rolling Out a Sleek New Business-class Cabin",
+        "content": "A popular international airline just announced a major upgrade for business class passengers.  Turkish Airlines revealed its new Crystal Business Class Suite during the Farnborough International Airshow in the United Kingdom.   For the first time, the business class will have an adjustable sliding door which will offer more privacy in the cabin. The seat has a 22” television screen, and 23” of seat width, which make the suite comfortable for sitting or when extended into a bed for sleeping.",
+        "imgUrl": "https://www.travelandleisure.com/thmb/PanZjFCD1kNsTl_TWm6Dq8SPY-I=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TAL-turkish-aisle-TURKISH0724-582857488b0449fda42fb878b2d5f6a7.jpg",
+        "categoryId": 4,
+        "authorId": 2,
+        "createdAt": "2024-08-02 07:01:23.474+00",
+        "updatedAt": "2024-08-02 07:01:23.474+00"
+    },
+    {
+        "title": "Self-driving Commercial Planes Just Took Another Step Towards Reality",
+        "content": "Forget about self-driving cars. What about self-flying airplanes?  Well, on the one hand, that already exists in some capacity. Most commercial aircraft have an autopilot system that can autonomously control certain aspects of flight in the cruise stage. And some even have an autolanding system that, you guessed it, automates certain aspects of landing. But takeoff is entirely human-controlled — for now, anyway.  Aircraft manufacturer Embraer just announced the Embraer Enhanced Takeoff System (E2TS) at the Farnborough International Airshow in the U.K., the first automated takeoff system in the commercial aviation industry. The software, which is designed for its E2 family of aircraft, is scheduled to debut in late 2025.  So how does E2TS work? In a nutshell, it calculates and executes the most precise and efficient rotation — that is, when the plane's nose lifts off the runway. In doing so, Embraer jets with E2TS will be able to maximize takeoffs by reducing the length of runway traveled during takeoff (which is crucial at airports with short runways) and reducing the workload of the pilot during takeoff.",
+        "imgUrl": "https://www.travelandleisure.com/thmb/iTFqZERV90NBHNp3ylUguf_Wgw4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TAL-embraer-e2ts-tech-eagle-AUTOTAKEOFF0724-b3f59d65c9cf456ab7392786db45d934.jpg",
+        "categoryId": 4,
+        "authorId": 2,
+        "createdAt": "2024-08-02 07:01:47.512+00",
+        "updatedAt": "2024-08-02 07:01:47.512+00"
+    },
+    {
+        "title": "Please Don’t Try That Viral Airplane Napping Hack, Experts Warn",
+        "content": "A travel napping hack viewed by millions on TikTok and Instagram is giving health and safety experts heart palpitations. The airplane hack, which involved lifting your feet from the floor to the seat, strapping them down tight with the seatbelt, and then lowering your head on your knees, is going viral — with many travelers testing the trick aboard an aircraft and posting it online.",
+        "imgUrl": "https://www.travelandleisure.com/thmb/phxZDsC8YJiDP7S-6nYP9-JMq10=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TAL-empty-airplane-BADPLANEHACK0724-8fa0b1d856e94daf82c96ee73d5acf83.jpg",
+        "categoryId": 4,
+        "authorId": 2,
+        "createdAt": "2024-08-02 07:02:06.454+00",
+        "updatedAt": "2024-08-02 07:02:06.454+00"
+    },
+    {
+        "title": "Hydrothermal Explosion Leading to Closure at Yellowstone National Park Caught on Video",
+        "content": "Visitors to one of the most popular national parks in the United States may need to adjust their plans.   Yellowstone National Park's 'Biscuit Basin' area is closed due to a recent hydrothermal explosion that occurred on Tuesday morning, according to a news release. The closure affects parking lots, trails, and boardwalks near the Basin, which is located just north of the still-open Old Faithful geysers.  The explosion was described as \"localized\" and occurred near the Sapphire Pool in Biscuit Basin.  Videos of the incident, taken by tourists and then shared on social media, show large plumes of liquid and debris bursting in the air and then raining down on outdoor enthusiasts.  Fortunately, no injuries have been reported at this time, according to the NPS.",
+        "imgUrl": "https://www.travelandleisure.com/thmb/c5b-M2u6oH2aWeKLpHe35h326hI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TAL-header-boardwalk-biscuit-basin-yellowstone-national-park-BISCUITBASIN0724-b0d7e62e0c374e0e854ed069e194bdb4.jpg",
+        "categoryId": 4,
+        "authorId": 2,
+        "createdAt": "2024-08-02 07:02:34.729+00",
+        "updatedAt": "2024-08-02 07:02:34.729+00"
+    },
+    {
+        "title": "This Airline Is Launching a New Route Between New York City and Mexico City",
+        "content": "It's been a bad week for Delta flyers, but here's a little good news amid the chaos: The airline's major partner Aeromexico is launching a new nonstop flight between Newark Liberty International Airport (EWR) near New York City and Aeropuerto Internacional Benito Juárez (MEX) in Mexico City. The daily service, a codeshare with Delta, is scheduled to begin on October 27.  From Newark, the Aeromexico flight will depart at 7:05 a.m. and land in Mexico City at 11:30 a.m. The reverse flight will depart Mexico City at 3:45 p.m. and land in Newark at 9:30 p.m.   Aeromexico will fly the route on its Boeing 737 MAX-8 aircraft, which has a capacity of 166 passengers across 16 business class seats, 18 AM Plus seats, and 132 economy seats. The new plane features high-speed WiFi, Bluetooth connectivity, and fast charging plugs.  Currently, only United flies nonstop from Newark to Mexico City, so if you wanted to make that nonstop journey on another airline, you'd have to trek over to John F. Kennedy International Airport (JFK) in New York. From there, Aeromexico, Delta, American Airlines, and VivaAerobus all operate nonstop flights to Mexico City.   But with the upcoming launch of the Aeromexico route, SkyTeam flyers will now have a second airport option. Newark will be Aeromexico's 24th destination in the U.S., following new route launches to Raleigh-Durham International Airport (RDU), Washington Dulles International Airport (IAD), and Tampa International Airport (TPA).",
+        "imgUrl": "https://www.travelandleisure.com/thmb/r6_7uF-be2np8IZGQ8bad23Tim4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TAL-mexico-city-AIRMXEWR0724-08d6ace6367c408da3a56976d45cc445.jpg",
+        "categoryId": 4,
+        "authorId": 2,
+        "createdAt": "2024-08-02 07:02:56.207+00",
+        "updatedAt": "2024-08-02 07:02:56.207+00"
+    },
+    {
+        "title": "This Super Easy Hack Lets You Track Your Flight Right From iMessage",
+        "content": "On July 19, an IT outage caused thousands of flights to be canceled or delayed across the world, including flights with major carriers like Delta, United, and American Airlines. While it certainly caused a headache for the airlines, it absolutely wrecked the travel plans for countless passengers. However, this experience did teach us all one thing: It's critical to have easy access to your flight information. And there's no easier way than this iPhone hack.   \"Did you know you can pull up real-time flight data right in your Messages app,\" Captain Chris wrote in an Instagram post in 2023. \"Using iMessage, you don't actually need an airline app, a flight tracking app, or even the ability to Google your flight or someone else's flight.",
+        "imgUrl": "https://www.travelandleisure.com/thmb/ywF_ujnwdnH5eSO3QSrNE5XR65g=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TAL-man-on-phone-airport-FLIGHTPHONETRACK0724-2fa1293ce56942199d17b95fcb059afa.jpg",
+        "categoryId": 4,
+        "authorId": 2,
+        "createdAt": "2024-08-02 07:03:12.745+00",
+        "updatedAt": "2024-08-02 07:03:12.745+00"
+    },
+    {
+        "title": "Gran Turismo 7 Weekly Challenges: Porsche Spice",
+        "content": "Another new set of Weekly Challenges is finding its way to player consoles around the world, updating at midnight local time this Thursday evening.  There’s a lot going on this week in the short, curated set of five events — which bring bonus rewards for completing them during the seven-day window — including some of the new race content added in 1.49, a Special Event created just for the week, and two of the advanced Bonus Menu Book challenges which require unlocking if you’ve not already done so.  That Special Event features the two Porsche 356 models again, for their second one-make event. Both are currently in the Legends Cars store as Special Picks, and you may use either. There’s no limitation on how you tune them for this event, which is a five-lap run around Goodwood, but bearing in mind the high buy-in and 80,000cr first-place prize it may be wise to moderate your spending.  Eiger Nordwand makes its second appearance in a row after landing in 1.49. This week it’s the turn of the World Rally Challenge Gr.B, which requires a Gr.B category car on Racing Tires. It’s a 12-lap race worth a solid 135,000cr if you win, which is actually a pretty decent money-spinner.",
+        "imgUrl": "https://www.gtplanet.net/wp-content/uploads/2024/08/image-13.jpg",
+        "categoryId": 3,
+        "authorId": 1,
+        "createdAt": "2024-08-02 09:47:42.268+00",
+        "updatedAt": "2024-08-02 13:25:45.272+00"
+    },
+    {
+        "title": "Former Destiny 2 Dev Shares Exciting Tease About Next Raid",
+        "content": "Another Destiny 2 raid is in development and was \"looking really good\" up until recently, a former Bungie staffer has said. The developer shared this revelation while reflecting on her time at the Destiny 2 maker, which was recently cut short.  On July 31, Bungie announced that it's laying off 220 employees, on top of transferring a portion of its staffers to different studios under the PlayStation umbrella. The layoffs alone will cull the company's workforce by approximately 17%.",
+        "imgUrl": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/08/destiny-2-three-characters-key-art-with-white-purple-glowing-game-logo-2x1-composite.jpg?q=49&fit=crop&w=1100&h=618&dpr=2",
+        "categoryId": 3,
+        "authorId": 1,
+        "createdAt": "2024-08-02 13:40:46.5+00",
+        "updatedAt": "2024-08-02 13:40:46.5+00"
+    },
+    {
+        "title": "Destiny 3 Was 'Never' in Development.",
+        "content": "An insider has debunked recent Destiny 3 cancelation rumors by revealing that the game wasn't even in development. Destiny 3 was the highly-awaited rumored sequel to 2017's online FPS title, Destiny 2.  On July 31, mass layoffs rocked Destiny developer Bungie once again, for the second time in less than a year. Following these job cuts, rumors were afloat that the move had led to the cancelation of Destiny 2's successor, believed to be the project codenamed \"Payback.\" However, a new report reveals that the canceled game may not have exactly been the Destiny game that fans feared it was.",
+        "imgUrl": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/08/titan-destiny-2.jpg?q=49&fit=crop&w=1100&h=618&dpr=2",
+        "categoryId": 3,
+        "authorId": 1,
+        "createdAt": "2024-08-02 13:41:53.679+00",
+        "updatedAt": "2024-08-02 13:45:20.197+00"
+    }
+]
